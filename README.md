@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hyxenbug
+- 👋 ~~Hi, I’m @hyxenbug~~ say my name!
 - 👀 I’m interested in video games and coding
 - 🌱 I’m currently learning web front-end
 - 💞️ I’m looking to collaborate on ...
